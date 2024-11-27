@@ -1,18 +1,18 @@
 # ---------New Django project setup and run command ------------
 #
-1.  py -m venv env                       Set up a virtual environment 
+1.  py -m venv env                       ---Set up a virtual environment 
 # 
-2. ../env/Scripts/activate               For activate virtual environment 
+2. ../env/Scripts/activate               ---For activate virtual environment 
 #
-3. pip install Django                    Install django
+3. pip install Django                    ---Install django
 #
-4. django-admin startproject School_Management_System     Create a new project
+4. django-admin startproject School_Management_System     ---Create a new project
 # 
-5. cd School_Management_System          Navigate to the project directory 
+5. cd School_Management_System          ---Navigate to the project directory 
 #
-6. py manage.py runserver  	            Run the server
+6. py manage.py runserver  	           --- Run the server
 # 
-7. django-admin startapp student_app    Create a new app
+7. django-admin startapp student_app    ---Create a new app
 8. #
 # --------To generate a file requirements.txt  for dependencies  -----------
 #
