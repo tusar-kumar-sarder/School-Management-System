@@ -14,11 +14,11 @@
 # 
 7. django-admin startapp student_app    ---Create a new app
 8. #
-# --------To generate a file requirements.txt  for dependencies  -----------
+# --To generate a file requirements.txt  for dependencies  --
 #
 1. pip freeze > requirements.txt
 # 
-# ---------Install dependencies from requirements.txt------------
+# --Install dependencies from requirements.txt----
 # 
 2. pip install -r requirements.txt
 #
